@@ -5,4 +5,11 @@ source "https://rubygems.org"
 # Specify your gem's dependencies in kingsman.gemspec
 gemspec
 
-gem "rake", "=> 13.0"
+gem "rake", ">= 13.0"
+
+group :development, :test do
+  gem "puma"
+  gem "jets"
+  gem "sprockets-jets"
+  gem "importmap-jets"
+end

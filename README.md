@@ -1,10 +1,11 @@
 # Kingsman
 
-## Installation
+[![Gem Version](https://badge.fury.io/rb/jets-responders.png)](http://badge.fury.io/rb/jets-responders)
 
-Install the gem and add to the application's Gemfile by executing:
+[![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
 
-    $ bundle add kingsman
+[![BoltOps Learn Badge](https://img.boltops.com/boltops-learn/boltops-learn.png)](https://learn.boltops.com)
 
-## Usage
+Kingsman is a flexible authentication solution for Jets based on Warden. It is a port of [heartcombo/devise](https://github.com/heartcombo/devise) to Jets.
 
+Docs: https://docs.rubyonjet.scom/docs/auth/kingsman/
