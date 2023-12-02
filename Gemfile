@@ -10,6 +10,4 @@ gem "rake", ">= 13.0"
 group :development, :test do
   gem "puma"
   gem "jets"
-  gem "sprockets-jets"
-  gem "importmap-jets"
 end

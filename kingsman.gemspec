@@ -32,6 +32,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "rainbow"
   spec.add_dependency "thor"
   spec.add_dependency "zeitwerk"
+  spec.add_dependency "jets-responders"
 
   spec.add_dependency "bcrypt"
   spec.add_dependency "orm_adapter"
