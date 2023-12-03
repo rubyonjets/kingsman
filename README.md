@@ -1,6 +1,6 @@
 # Kingsman
 
-[![Gem Version](https://badge.fury.io/rb/jets-responders.png)](http://badge.fury.io/rb/jets-responders)
+[![Gem Version](https://badge.fury.io/rb/kingsman.svg)](http://badge.fury.io/rb/kingsman)
 
 [![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
 
